@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src="https://media.tenor.com/je-huTL1vwgAAAAi/loading-buffering.gif" width="300">
+   <img src="https://media.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" width="300">
 </div>
 
 <br>
