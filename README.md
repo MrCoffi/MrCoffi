@@ -1,13 +1,11 @@
-<body style="background-color:black;>
- <div style="color:black;">
+<body>
+ <div>
     <p align="center"> 
              <img src="https://media.tenor.com/je-huTL1vwgAAAAi/loading-buffering.gif">
     </p>                                                                                                  
   </div>
-  <br>
-                                                                                      
-                                                                             
-       <p alight="center"><h1>About me</h1>
+  <br>                                                                   
+       <p align="center"><h1>About me</h1>
               <h2>1.</h2>
                  <h3>2.</h3>
                     <h4>3.</h4>
