@@ -1,14 +1,27 @@
-<body>
- <div>
-    <p align="center"> 
-             <img src="https://media.tenor.com/je-huTL1vwgAAAAi/loading-buffering.gif">
-    </p>                                                                                                  
-  </div>
-  <br>                                                                   
-      <h1 align="center">About me</h1>
-              <h2>1.Well<br>2.Done<br>3.Garry<br><div style="border:30px;"><a href="https://vk.com/coffecuthe"><img src="https://img2.freepng.ru/20180712/utf/kisspng-vk-facebook-logo-blog-5b46f186bdb829.3268971815313760067771.jpg" width="70"</a></h2>
+<div id="header" align="center">
+   <img src="https://media.tenor.com/je-huTL1vwgAAAAi/loading-buffering.gif" width="300">
+</div>
 
+<br>
 
+<div id="badges" align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</div>
 
-  
-</body>
+---
+
+### :man_technologist: About Me :
+
+I am a Java Backend Developer <img src="https://media.tenor.com/-Fbyl7vqHiYAAAAi/goma-cat.gif" width="30"> from Russia.
+
+- :telescope: I'm creating backend for web applications using popular technologies.
+
+- :seedling: Exploring new technologies.
+
+- :zap: In my free time, I solve  read tech articles, sometimes making pet-projects.
