@@ -5,12 +5,12 @@
     </p>                                                                                                  
   </div>
   <br>                                                                   
-       <p align="center"><h1>About me</h1>
+      <h1 align="center">About me</h1>
               <h2>1.</h2>
                  <h3>2.</h3>
                     <h4>3.</h4>
                          <h5>4.</h5>    
-                            </p>
+                    
                                        
                                                   
                                                   <h1>Social network</h1>
