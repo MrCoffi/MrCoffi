@@ -3,6 +3,6 @@
   </div>
   <br>
   
-  <div style="border:30px;"><a href="https://vk.com/coffecuthe"><img src="https://www.oblgazeta.ru/media/filer_public/2021/09/03/23bd01ce-930d-48bd-8983-d2e8f62f2066-%D0%92%D0%9A.jpg" width="70"</a></div>
+  <div style="border:30px;"><a href="https://vk.com/coffecuthe"><img src="https://img2.freepng.ru/20180712/utf/kisspng-vk-facebook-logo-blog-5b46f186bdb829.3268971815313760067771.jpg" width="70"</a></div>
   
 </body>
