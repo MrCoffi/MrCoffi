@@ -1,1 +1,3 @@
-### <img src="https://i.gifer.com/6tIB.gif">
+<body>
+  <div><a href="https://gifer.com/ru/6tIB">Style</a></div>
+</body>
