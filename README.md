@@ -1,5 +1,5 @@
 <body style="background-color:black;>
- <div style="color:black;"> <img src="https://media.tenor.com/k9yAts9ymaIAAAAC/loading-load.gif">
+ <div style="color:black;"> <img src="https://media.tenor.com/je-huTL1vwgAAAAi/loading-buffering.gif">
   </div>
   <br>
   
