@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Java Backend Developer <img src="https://media.tenor.com/-Fbyl7vqHiYAAAAi/goma-cat.gif" width="30"> from Russia.
+I am a Java Backend Junior <img src="https://media.tenor.com/-Fbyl7vqHiYAAAAi/goma-cat.gif" width="30"> from Russia.
 
 - :telescope: I'm creating backend for web applications using popular technologies.
 
